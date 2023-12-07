@@ -46,7 +46,7 @@ file { '/data/web_static/releases/test/index.html':
 		<title>Home - AirBnB Clone</title>
 	</head>
 	<body>
-		<h1>Welcome to AirBnB!</h1>
+		Holberton School
 	<body>
 </html>
 ",
